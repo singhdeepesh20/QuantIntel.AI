@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=200&section=header&text=SmartResearch.AI&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">📈 SmartResearch.AI</h1>
+<h1 align="center">📈 QuantIntel.AI</h1>
 <h3 align="center">Autonomous Financial Research Agent for Institutional-Grade Intelligence</h3>
 
 <hr/>
