@@ -32,3 +32,12 @@ Traditional financial research requires hours of manual analysis across:
 <p>
 <b>SmartResearch.AI automates this workflow</b> using Retrieval-Augmented Generation (RAG), hybrid search systems, and agentic reasoning to deliver:
 </p>
+
+<ul>
+  <li>Actionable investment insights</li>
+  <li>Competitor intelligence</li>
+  <li>Risk analysis</li>
+  <li>Source-grounded answers</li>
+</ul>
+
+<hr/>
