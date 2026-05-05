@@ -20,3 +20,15 @@
 <p>
 Traditional financial research requires hours of manual analysis across:
 </p>
+
+<ul>
+  <li>📄 Annual reports</li>
+  <li>📑 SEC filings</li>
+  <li>🎙️ Earnings transcripts</li>
+  <li>📰 Financial news</li>
+  <li>📚 PDFs & market documents</li>
+</ul>
+
+<p>
+<b>SmartResearch.AI automates this workflow</b> using Retrieval-Augmented Generation (RAG), hybrid search systems, and agentic reasoning to deliver:
+</p>
