@@ -41,3 +41,24 @@ Traditional financial research requires hours of manual analysis across:
 </ul>
 
 <hr/>
+
+<!-- 🔥 CORE PROBLEM -->
+<h2>🚨 Industry Problem</h2>
+
+<p>
+Financial professionals spend significant time extracting insights from fragmented, dense, and multi-source financial data.
+</p>
+
+<ul>
+  <li>Slow due diligence processes</li>
+  <li>Information overload</li>
+  <li>Manual comparative analysis</li>
+  <li>High research costs</li>
+  <li>Missed strategic opportunities</li>
+</ul>
+
+<p>
+<b>Goal:</b> Build an AI system capable of automating research, reasoning, and financial intelligence generation.
+</p>
+
+<hr/>
