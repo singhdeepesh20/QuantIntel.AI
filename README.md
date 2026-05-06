@@ -78,3 +78,25 @@ QuantIntel.AI combines:
 </ul>
 
 <pre>
+
+  Financial Documents / SEC Filings / News
+                ↓
+        Data Ingestion Layer
+                ↓
+      Parsing + Cleaning + Chunking
+                ↓
+   Hybrid Retrieval (BM25 + Dense Search)
+                ↓
+       Query Rewriting Engine
+                ↓
+ Cross-Encoder Re-ranking Pipeline
+                ↓
+      Agentic Financial Research Layer
+                ↓
+ Insight Generation + Risk Analysis
+                ↓
+ Dashboard + Exportable Reports
+</pre>
+
+<hr/>
+
