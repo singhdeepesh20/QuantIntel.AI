@@ -62,3 +62,19 @@ Financial professionals spend significant time extracting insights from fragment
 </p>
 
 <hr/>
+
+<!-- 🔥 SOLUTION -->
+<h2>⚡ Solution Architecture</h2>
+
+<p>
+QuantIntel.AI combines:
+</p>
+
+<ul>
+  <li><b>Multi-document RAG</b></li>
+  <li><b>Hybrid retrieval</b> (BM25 + FAISS/Pinecone)</li>
+  <li><b>Agentic workflows</b></li>
+  <li><b>Financial reasoning pipelines</b></li>
+</ul>
+
+<pre>
