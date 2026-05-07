@@ -147,3 +147,17 @@ QuantIntel.AI combines:
 
 <hr/>
 
+<!-- 🔥 ENGINEERING -->
+<h2>📊 Engineering Highlights</h2>
+
+<ul>
+  <li>⚡ Production-grade FastAPI backend</li>
+  <li>🧩 Modular RAG architecture</li>
+  <li>📈 Institutional-scale retrieval systems</li>
+  <li>🧠 Agentic reasoning via LangGraph</li>
+  <li>🔄 Plug-and-play model compatibility</li>
+  <li>🌐 Scalable UI options (Streamlit / React)</li>
+</ul>
+
+<hr/>
+
