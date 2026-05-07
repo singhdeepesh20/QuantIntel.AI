@@ -131,3 +131,19 @@ QuantIntel.AI combines:
 
 <hr/>
 
+<!-- 🔥 TECH STACK -->
+<h2>🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react" />
+  <img src="https://img.shields.io/badge/LangChain-RAG-blue" />
+  <img src="https://img.shields.io/badge/LangGraph-Agentic-purple" />
+  <img src="https://img.shields.io/badge/FAISS-VectorDB-orange" />
+  <img src="https://img.shields.io/badge/Pinecone-CloudDB-success" />
+  <img src="https://img.shields.io/badge/HuggingFace-Embeddings-yellow" />
+  <img src="https://img.shields.io/badge/Groq-Ollama-LLM-green" />
+  <img src="https://img.shields.io/badge/Streamlit-UI-red" />
+</p>
+
+<hr/>
+
