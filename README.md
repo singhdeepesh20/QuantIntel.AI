@@ -117,3 +117,17 @@ QuantIntel.AI combines:
 
 <hr/>
 
+<!-- 🔥 ADVANCED CAPABILITIES -->
+<h2>🧬 Advanced Engineering Features</h2>
+
+<ul>
+  <li>Multi-document reasoning</li>
+  <li>Query rewriting optimization</li>
+  <li>Cross-encoder reranking</li>
+  <li>LangGraph-based research orchestration</li>
+  <li>Autonomous financial intelligence pipelines</li>
+  <li>Scalable deployment architecture</li>
+</ul>
+
+<hr/>
+
