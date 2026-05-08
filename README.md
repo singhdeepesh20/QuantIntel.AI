@@ -189,4 +189,17 @@ QuantIntel.AI combines:
 
 <hr/>
 
+<!-- 🔥 RESEARCH -->
+<h2>📄 Research Perspective</h2>
 
+<h3>Abstract</h3>
+<p>
+QuantIntel.AI demonstrates how Retrieval-Augmented Generation, hybrid search, and agentic AI can automate complex financial research tasks traditionally requiring significant human effort. By integrating document intelligence, semantic retrieval, and autonomous reasoning, the system improves research speed, strategic depth, and decision quality.
+</p>
+
+<h3>Key Insight</h3>
+<p>
+<b>Modern financial intelligence requires systems that retrieve, reason, compare, and act autonomously.</b>
+</p>
+
+<hr/>
