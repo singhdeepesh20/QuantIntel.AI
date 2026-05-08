@@ -203,3 +203,20 @@ QuantIntel.AI demonstrates how Retrieval-Augmented Generation, hybrid search, an
 </p>
 
 <hr/>
+
+<!-- 🔥 CAREER ALIGNMENT -->
+<h2>🎯 Industry Alignment</h2>
+
+<p>
+This project reflects capabilities relevant to:
+</p>
+
+<ul>
+  <li>OpenAI / Anthropic-level applied AI systems</li>
+  <li>Quantitative finance infrastructure</li>
+  <li>Enterprise financial intelligence platforms</li>
+  <li>FAANG-scale ML engineering</li>
+  <li>Autonomous agent systems</li>
+</ul>
+
+<hr/>
