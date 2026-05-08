@@ -175,3 +175,18 @@ QuantIntel.AI combines:
 
 <hr/>
 
+<!-- 🔥 FUTURE ROADMAP -->
+<h2>🔮 Future Enhancements</h2>
+
+<ul>
+  <li>Real-time market feeds integration</li>
+  <li>Portfolio-level analysis agents</li>
+  <li>Advanced visualization dashboards</li>
+  <li>Institutional API integrations</li>
+  <li>Multimodal finance intelligence</li>
+  <li>Cloud-native deployment pipelines</li>
+</ul>
+
+<hr/>
+
+
