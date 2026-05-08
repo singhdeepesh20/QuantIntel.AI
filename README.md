@@ -220,3 +220,25 @@ This project reflects capabilities relevant to:
 </ul>
 
 <hr/>
+
+<!-- 🔥 AUTHOR -->
+<h2>👨‍💻 Author</h2>
+
+<p align="center">
+  <b>Deepesh Singh</b><br/>
+  AI Engineer | Financial AI | Agentic Systems | RAG Architect
+</p>
+
+<hr/>
+
+<!-- 🔥 FINAL INSIGHT -->
+<h2 align="center">⚡ Final Insight</h2>
+
+<p align="center">
+<b>“Transforming financial research from manual analysis into autonomous intelligence.”</b>
+</p>
+
+<!-- 🔥 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f172a&height=120&section=footer"/>
+</p>
