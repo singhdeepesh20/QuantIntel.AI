@@ -11,7 +11,7 @@
 <hr/>
 
 <!-- 🔥 OVERVIEW -->
-<h2>🧠 Overview</h2>
+<h2> Overview</h2>
 
 <p>
 <b>SmartResearch.AI</b> is a production-grade <b>autonomous financial research system</b> designed to transform how investors, analysts, and institutions process large-scale financial information.
@@ -22,11 +22,11 @@ Traditional financial research requires hours of manual analysis across:
 </p>
 
 <ul>
-  <li>📄 Annual reports</li>
-  <li>📑 SEC filings</li>
-  <li>🎙️ Earnings transcripts</li>
-  <li>📰 Financial news</li>
-  <li>📚 PDFs & market documents</li>
+  <li> Annual reports</li>
+  <li> SEC filings</li>
+  <li> Earnings transcripts</li>
+  <li> Financial news</li>
+  <li> PDFs & market documents</li>
 </ul>
 
 <p>
