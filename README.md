@@ -132,7 +132,7 @@ QuantIntel.AI combines:
 <hr/>
 
 <!-- 🔥 TECH STACK -->
-<h2>🛠️ Tech Stack</h2>
+<h2> Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react" />
@@ -148,35 +148,35 @@ QuantIntel.AI combines:
 <hr/>
 
 <!-- 🔥 ENGINEERING -->
-<h2>📊 Engineering Highlights</h2>
+<h2> Engineering Highlights</h2>
 
 <ul>
-  <li>⚡ Production-grade FastAPI backend</li>
-  <li>🧩 Modular RAG architecture</li>
-  <li>📈 Institutional-scale retrieval systems</li>
-  <li>🧠 Agentic reasoning via LangGraph</li>
-  <li>🔄 Plug-and-play model compatibility</li>
-  <li>🌐 Scalable UI options (Streamlit / React)</li>
+  <li> Production-grade FastAPI backend</li>
+  <li> Modular RAG architecture</li>
+  <li> Institutional-scale retrieval systems</li>
+  <li> Agentic reasoning via LangGraph</li>
+  <li> Plug-and-play model compatibility</li>
+  <li> Scalable UI options (Streamlit / React)</li>
 </ul>
 
 <hr/>
 
 <!-- 🔥 USE CASES -->
-<h2>💼 Real-World Applications</h2>
+<h2> Real-World Applications</h2>
 
 <ul>
-  <li>📊 Investment research automation</li>
-  <li>🏦 Hedge fund intelligence systems</li>
-  <li>📈 Equity research workflows</li>
-  <li>⚖️ Risk management analysis</li>
-  <li>🧠 Autonomous financial assistants</li>
-  <li>🏢 Enterprise due diligence systems</li>
+  <li> Investment research automation</li>
+  <li> Hedge fund intelligence systems</li>
+  <li> Equity research workflows</li>
+  <li> Risk management analysis</li>
+  <li> Autonomous financial assistants</li>
+  <li> Enterprise due diligence systems</li>
 </ul>
 
 <hr/>
 
 <!-- 🔥 FUTURE ROADMAP -->
-<h2>🔮 Future Enhancements</h2>
+<h2> Future Enhancements</h2>
 
 <ul>
   <li>Real-time market feeds integration</li>
@@ -190,7 +190,7 @@ QuantIntel.AI combines:
 <hr/>
 
 <!-- 🔥 RESEARCH -->
-<h2>📄 Research Perspective</h2>
+<h2> Research Perspective</h2>
 
 <h3>Abstract</h3>
 <p>
@@ -205,7 +205,7 @@ QuantIntel.AI demonstrates how Retrieval-Augmented Generation, hybrid search, an
 <hr/>
 
 <!-- 🔥 CAREER ALIGNMENT -->
-<h2>🎯 Industry Alignment</h2>
+<h2> Industry Alignment</h2>
 
 <p>
 This project reflects capabilities relevant to:
