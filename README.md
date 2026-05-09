@@ -43,7 +43,7 @@ Traditional financial research requires hours of manual analysis across:
 <hr/>
 
 <!-- 🔥 CORE PROBLEM -->
-<h2>🚨 Industry Problem</h2>
+<h2> Industry Problem</h2>
 
 <p>
 Financial professionals spend significant time extracting insights from fragmented, dense, and multi-source financial data.
@@ -64,7 +64,7 @@ Financial professionals spend significant time extracting insights from fragment
 <hr/>
 
 <!-- 🔥 SOLUTION -->
-<h2>⚡ Solution Architecture</h2>
+<h2> Solution Architecture</h2>
 
 <p>
 QuantIntel.AI combines:
@@ -99,18 +99,18 @@ QuantIntel.AI combines:
 </pre>
 
 <!-- 🔥 FEATURES -->
-<h2>🚀 Core Features</h2>
+<h2> Core Features</h2>
 
 <ul>
-  <li>📄 <b>Financial Document Ingestion</b> → Reports, SEC filings, transcripts, PDFs</li>
-  <li>🔍 <b>Hybrid Retrieval</b> → BM25 + FAISS/Pinecone</li>
-  <li>🧠 <b>AI Summarization</b> → Key insights extraction</li>
-  <li>📊 <b>Competitor Comparisons</b> → Strategic benchmarking</li>
-  <li>⚠️ <b>Risk Analysis Engine</b> → Financial risk identification</li>
-  <li>🔗 <b>Source-Cited Answers</b> → Explainable intelligence</li>
-  <li>🤖 <b>Agentic Research Workflows</b> → Autonomous multi-step analysis</li>
-  <li>📑 <b>PDF Export</b> → Institutional reporting</li>
-  <li>📈 <b>Dashboard UI</b> → Interactive analytics</li>
+  <li> <b>Financial Document Ingestion</b> → Reports, SEC filings, transcripts, PDFs</li>
+  <li> <b>Hybrid Retrieval</b> → BM25 + FAISS/Pinecone</li>
+  <li> <b>AI Summarization</b> → Key insights extraction</li>
+  <li> <b>Competitor Comparisons</b> → Strategic benchmarking</li>
+  <li> <b>Risk Analysis Engine</b> → Financial risk identification</li>
+  <li> <b>Source-Cited Answers</b> → Explainable intelligence</li>
+  <li> <b>Agentic Research Workflows</b> → Autonomous multi-step analysis</li>
+  <li> <b>PDF Export</b> → Institutional reporting</li>
+  <li> <b>Dashboard UI</b> → Interactive analytics</li>
 </ul>
 
 <hr/>
@@ -118,7 +118,7 @@ QuantIntel.AI combines:
 <hr/>
 
 <!-- 🔥 ADVANCED CAPABILITIES -->
-<h2>🧬 Advanced Engineering Features</h2>
+<h2> Advanced Engineering Features</h2>
 
 <ul>
   <li>Multi-document reasoning</li>
